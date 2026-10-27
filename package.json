@@ -1,0 +1,1 @@
+{"name":"tu-proxima-partida","version":"1.0.0","private":true,"description":"Recomendador explicable de videojuegos de PC para Azure","type":"module","engines":{"node":">=24 <25"},"scripts":{"start":"node server.mjs","dev":"node --watch server.mjs","build":"node scripts/build-db.mjs","test":"node --test test/*.test.mjs"},"license":"UNLICENSED"}

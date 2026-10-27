@@ -1,0 +1,11 @@
+node_modules/
+.env
+.env.*
+!.env.example
+data/catalog.sqlite*
+.azure/
+*.PublishSettings
+*.publishsettings
+*.log
+.DS_Store
+

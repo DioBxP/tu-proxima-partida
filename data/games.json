@@ -1,0 +1,363 @@
+[
+  {
+    "id": 413150,
+    "title": "Stardew Valley",
+    "description": "Cultiva tu granja, conoce a tus vecinos y explora a tu ritmo. Un pequeño cambio de vida, también en compañía.",
+    "genres": [
+      "simulacion",
+      "aventura"
+    ],
+    "moods": [
+      "relajar",
+      "explorar"
+    ],
+    "modes": [
+      "solo",
+      "amigos"
+    ],
+    "session": 20,
+    "free": false,
+    "tagline": "Tu otra vida empieza en la granja",
+    "year": 2016
+  },
+  {
+    "id": 1055540,
+    "title": "A Short Hike",
+    "description": "Recorre una isla, charla con sus habitantes y encuentra tu propio camino hasta la cima. Una aventura tranquila y curiosa.",
+    "genres": [
+      "aventura"
+    ],
+    "moods": [
+      "relajar",
+      "explorar"
+    ],
+    "modes": [
+      "solo"
+    ],
+    "session": 15,
+    "free": false,
+    "tagline": "Pierde el rumbo. Encuentra algo bonito.",
+    "year": 2019
+  },
+  {
+    "id": 1135690,
+    "title": "Unpacking",
+    "description": "Desempaca cajas y descubre una historia a través de los objetos. Organiza cada habitación a tu propio ritmo.",
+    "genres": [
+      "puzles",
+      "simulacion"
+    ],
+    "moods": [
+      "relajar"
+    ],
+    "modes": [
+      "solo"
+    ],
+    "session": 15,
+    "free": false,
+    "tagline": "Cada objeto tiene su lugar y su historia",
+    "year": 2021
+  },
+  {
+    "id": 1145360,
+    "title": "Hades",
+    "description": "Escapa del inframundo con armas, poderes y nuevas oportunidades. Cada intento cuenta una parte de tu historia.",
+    "genres": [
+      "accion",
+      "roguelike"
+    ],
+    "moods": [
+      "reto",
+      "explorar"
+    ],
+    "modes": [
+      "solo"
+    ],
+    "session": 30,
+    "free": false,
+    "tagline": "Un intento más. Una historia nueva.",
+    "year": 2020
+  },
+  {
+    "id": 367520,
+    "title": "Hollow Knight",
+    "description": "Explora un reino subterráneo lleno de secretos, caminos conectados y combates que premian la paciencia.",
+    "genres": [
+      "aventura",
+      "plataformas",
+      "accion"
+    ],
+    "moods": [
+      "explorar",
+      "reto"
+    ],
+    "modes": [
+      "solo"
+    ],
+    "session": 30,
+    "free": false,
+    "tagline": "Un mundo inmenso bajo tus pies",
+    "year": 2017
+  },
+  {
+    "id": 620,
+    "title": "Portal 2",
+    "description": "Piensa con portales y resuelve cámaras de prueba. Elige su campaña individual o una aventura cooperativa para dos.",
+    "genres": [
+      "puzles",
+      "aventura"
+    ],
+    "moods": [
+      "reto",
+      "explorar"
+    ],
+    "modes": [
+      "solo",
+      "amigos"
+    ],
+    "session": 20,
+    "free": false,
+    "tagline": "Dos portales. Mil formas de pensar.",
+    "year": 2011
+  },
+  {
+    "id": 646570,
+    "title": "Slay the Spire",
+    "description": "Construye un mazo, toma decisiones y asciende por una torre que cambia en cada intento. Puedes pausar y seguir después.",
+    "genres": [
+      "estrategia",
+      "roguelike"
+    ],
+    "moods": [
+      "reto"
+    ],
+    "modes": [
+      "solo"
+    ],
+    "session": 15,
+    "free": false,
+    "tagline": "Tu mejor arma es una buena decisión",
+    "year": 2019
+  },
+  {
+    "id": 1794680,
+    "title": "Vampire Survivors",
+    "description": "Esquiva hordas, combina mejoras y trata de sobrevivir. Sus sesiones concentran una gran cantidad de acción.",
+    "genres": [
+      "accion",
+      "roguelike"
+    ],
+    "moods": [
+      "reto"
+    ],
+    "modes": [
+      "solo",
+      "amigos"
+    ],
+    "session": 30,
+    "free": false,
+    "tagline": "Una pantalla llena de posibilidades",
+    "year": 2022
+  },
+  {
+    "id": 2379780,
+    "title": "Balatro",
+    "description": "Combina manos de cartas con comodines de efectos inesperados. Descubre sinergias y guarda tu partida para continuar después.",
+    "genres": [
+      "estrategia",
+      "roguelike"
+    ],
+    "moods": [
+      "reto",
+      "relajar"
+    ],
+    "modes": [
+      "solo"
+    ],
+    "session": 15,
+    "free": false,
+    "tagline": "Encuentra esa combinación imposible",
+    "year": 2024
+  },
+  {
+    "id": 548430,
+    "title": "Deep Rock Galactic",
+    "description": "Forma un equipo de mineros espaciales, explora cuevas y sobrevive a sus criaturas. La cooperación hace la diferencia.",
+    "genres": [
+      "accion",
+      "aventura"
+    ],
+    "moods": [
+      "reto",
+      "explorar"
+    ],
+    "modes": [
+      "solo",
+      "amigos"
+    ],
+    "session": 30,
+    "free": false,
+    "tagline": "Ningún minero se queda atrás",
+    "year": 2020
+  },
+  {
+    "id": 728880,
+    "title": "Overcooked! 2",
+    "description": "Coordina pedidos en cocinas que cambian y se complican. Reparte tareas e improvisa con tus amigos.",
+    "genres": [
+      "simulacion",
+      "accion"
+    ],
+    "moods": [
+      "reto"
+    ],
+    "modes": [
+      "solo",
+      "amigos"
+    ],
+    "session": 15,
+    "free": false,
+    "tagline": "La cocina se disfruta en equipo",
+    "year": 2018
+  },
+  {
+    "id": 105600,
+    "title": "Terraria",
+    "description": "Excava, construye y descubre un mundo de aventuras. Alterna la exploración tranquila con combates y grandes proyectos.",
+    "genres": [
+      "aventura",
+      "accion"
+    ],
+    "moods": [
+      "explorar",
+      "reto",
+      "relajar"
+    ],
+    "modes": [
+      "solo",
+      "amigos"
+    ],
+    "session": 30,
+    "free": false,
+    "tagline": "El siguiente descubrimiento está bajo tierra",
+    "year": 2011
+  },
+  {
+    "id": 504230,
+    "title": "Celeste",
+    "description": "Escala una montaña entre saltos precisos y desafíos cortos. Sus puntos de control invitan a aprender intento a intento.",
+    "genres": [
+      "plataformas"
+    ],
+    "moods": [
+      "reto"
+    ],
+    "modes": [
+      "solo"
+    ],
+    "session": 15,
+    "free": false,
+    "tagline": "Un salto más cerca de la cima",
+    "year": 2018
+  },
+  {
+    "id": 570,
+    "title": "Dota 2",
+    "description": "Elige un héroe y coordina estrategias con tu equipo. Sus partidas requieren atención, práctica y tiempo disponible.",
+    "genres": [
+      "estrategia",
+      "accion"
+    ],
+    "moods": [
+      "competir",
+      "reto"
+    ],
+    "modes": [
+      "amigos"
+    ],
+    "session": 60,
+    "free": true,
+    "tagline": "Cinco jugadores. Una estrategia compartida.",
+    "year": 2013
+  },
+  {
+    "id": 730,
+    "title": "Counter-Strike 2",
+    "description": "Un shooter táctico donde importan la precisión y la comunicación. El tiempo sugerido contempla una sesión competitiva.",
+    "genres": [
+      "accion"
+    ],
+    "moods": [
+      "competir",
+      "reto"
+    ],
+    "modes": [
+      "amigos"
+    ],
+    "session": 45,
+    "free": true,
+    "tagline": "Cada decisión cambia la ronda",
+    "year": 2023
+  },
+  {
+    "id": 230410,
+    "title": "Warframe",
+    "description": "Explora misiones de ciencia ficción con movimientos ágiles y un arsenal que puedes personalizar, solo o en escuadrón.",
+    "genres": [
+      "accion",
+      "aventura"
+    ],
+    "moods": [
+      "explorar",
+      "reto"
+    ],
+    "modes": [
+      "solo",
+      "amigos"
+    ],
+    "session": 20,
+    "free": true,
+    "tagline": "Tu escuadrón, tu estilo, tu misión",
+    "year": 2013
+  },
+  {
+    "id": 291550,
+    "title": "Brawlhalla",
+    "description": "Entra en combates de plataformas, prueba personajes y reta a tus amigos en enfrentamientos cortos.",
+    "genres": [
+      "accion",
+      "plataformas"
+    ],
+    "moods": [
+      "competir",
+      "reto"
+    ],
+    "modes": [
+      "amigos"
+    ],
+    "session": 15,
+    "free": true,
+    "tagline": "Un descanso. Un duelo. La revancha.",
+    "year": 2017
+  },
+  {
+    "id": 1714040,
+    "title": "Super Auto Pets",
+    "description": "Construye un equipo de animales con habilidades que se complementan. Decide con calma y enfrenta a otros equipos.",
+    "genres": [
+      "estrategia"
+    ],
+    "moods": [
+      "relajar",
+      "competir"
+    ],
+    "modes": [
+      "solo",
+      "amigos"
+    ],
+    "session": 15,
+    "free": true,
+    "tagline": "Pequeños animales, grandes estrategias",
+    "year": 2021
+  }
+]
