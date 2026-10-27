@@ -69,7 +69,13 @@ Los parámetros inválidos devuelven 400. Los métodos de escritura devuelven 40
 
 Sigue [la guía de publicación](docs/PUBLICAR.md). El destino es **Azure App Service con Node.js 24 sobre Linux**, porque este proyecto tiene servidor y base SQLite. El catálogo se genera durante la preparación y se abre en modo lectura. No utiliza una base de datos administrada externa.
 
-Repositorio del proyecto: https://github.com/DioBxP/tu-proxima-partida. La publicación en Azure se completa con la conexión de despliegue de tu cuenta; incluir esta guía no significa que el servicio ya esté publicado.
+**Aplicación publicada:** [Abrir Tu próxima partida](https://partidaprueba-g2h6hrc4fzh9fvd3.eastus2-01.azurewebsites.net/).
+
+Repositorio: https://github.com/DioBxP/tu-proxima-partida.
+
+Publicación realizada el 27 de octubre de 2026 mediante carga manual del [ZIP preparado](deploy/tu-proxima-partida-azure.zip) en Azure App Service. Recurso: **partidaprueba**; grupo de recursos: **Partida**; región: **East US 2**; entorno: **Node.js 24 sobre Linux**.
+
+Se verificaron desde el enlace público la página principal, el estado de SQLite con 18 juegos y las recomendaciones. Azure no necesitó autorización sobre repositorios de la organización de la universidad. Los cambios posteriores al código requieren regenerar el ZIP y volver a cargarlo.
 
 ## Alcance y fuentes
 
