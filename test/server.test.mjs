@@ -25,7 +25,9 @@ test('SQLite y API responden con datos reales y rutas seguras',async()=>{
     assert.equal(games.games.length,18);
     const page=await fetch(root+'/');
     assert.equal(page.status,200);
-    assert.match(await page.text(),/Menos buscar/);
+    const html=await page.text();
+    assert.match(html,/<h1\b[^>]*>[^]*?<\/h1>/);
+    assert.match(html,/id="preferences"/);
     const recommendations=await (await fetch(root+'/api/recommendations?budget=free&time=15&mode=amigos&mood=competir')).json();
     assert.equal(recommendations.games[0].title,'Brawlhalla');
     assert.ok(recommendations.games.every(game=>game.free && game.session<=15));
